@@ -1,8 +1,9 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Accueil
 ---
 
-## Welcome
-
-And hello!
+Psychiatrie – Psychothérapie
+Ostéopathie
+Physiothérapie – Tai Chi For Health
+Rue du Trésor 9 – 3ème étage - 2000 Neuchâtel
