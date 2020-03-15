@@ -1,0 +1,8 @@
+
+# Traditional Blocks
+.DS_Store
+
+# Ignore the .jekyll-metadata and _site
+docs/.jekyll-metadata/*
+docs/_site/*
+
