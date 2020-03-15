@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anne-Line Poulsen
-img: assets/images/cabinet_mayoly.jpg
+img: assets/images/vue_poulsen.jpg
 ---
 
 ## Physiothérapeute HES
@@ -52,7 +52,7 @@ Les 6 principes essentiels du Tai Chi
 
 [Tai Chi for Health Institute](https://taichiforhealthinstitute.org/instructors/instructor/?instructor_id=8289)
 
-### Automne 2019
+### Automne 2019
 
 Pour la session d’Automne 2019, ouverture d’un cours débutants à Cortaillod les mercredis de 16h45 à 17h45. Le nombre de participants étant limité, n’hésitez pas à prendre contact déjà maintenant.
 
