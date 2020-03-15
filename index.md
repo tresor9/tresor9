@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Accueil
+img: assets/iamges/cabinet_mayoly.jpg
 ---
 
 Psychiatrie – Psychothérapie

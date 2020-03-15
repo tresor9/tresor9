@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Anne Mayoly Boon
+url: assets/iamges/cabinet_mayoly.jpg
 ---
 
 ## Ostéopathe CDS/ GDK avec reconnaissance cantonale et fédérale

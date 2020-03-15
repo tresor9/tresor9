@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Anne Waeber
+url: assets/iamges/cabinet_mayoly.jpg
 ---
 
 ## Ostéopathe CDS (reconnaissance fédérale)

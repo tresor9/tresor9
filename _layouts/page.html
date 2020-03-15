@@ -3,12 +3,19 @@ layout: default
 ---
 <article>
 
-  <header>
-    <h1>{{ page.title | escape }}</h1>
-  </header>
+  {%
+    include header.html
+    text=page.title
+    url=page.url
+  %}
 
   <section>
-    {{ content }}
+    <div>
+      {{ page.title }} {{ page.img }}
+    </div>
+    <div>
+      {{ content }}
+    </div>
   </section>
 
 </article>

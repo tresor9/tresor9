@@ -42,7 +42,7 @@ $green:   #56CC9D !default;
 $teal:    #20c997 !default;
 $cyan:    #6CC3D5 !default;
 
-$primary:       #78C2AD !default;
+$primary:       #FFCE67 !default;
 $secondary:     #F3969A !default;
 $success:       $green !default;
 $info:          $cyan !default;
@@ -82,9 +82,9 @@ $dropdown-link-hover-bg:            $secondary !default;
 $navbar-dark-color:                 rgba($white,.6) !default;
 $navbar-dark-hover-color:           $white !default;
 
-$navbar-light-color:                rgba($black,.3) !default;
+$navbar-light-color:                $black !default;
 $navbar-light-hover-color:          $gray-700 !default;
-$navbar-light-active-color:         $gray-700 !default;
+$navbar-light-active-color:         $black !default;
 $navbar-light-disabled-color:       rgba($black,.1) !default;
 
 // Pagination

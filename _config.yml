@@ -29,10 +29,10 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - therapist_pages/walker.md
-  - therapist_pages/mayoly.md
-  - therapist_pages/waeber.md
-  - therapist_pages/poulsen.md
+  - people/walker.md
+  - people/mayoly.md
+  - people/waeber.md
+  - people/poulsen.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
