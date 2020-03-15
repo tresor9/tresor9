@@ -106,10 +106,16 @@ Albert Jaccard
 
 ## Liens
 
-<www.taichiforhealthinstitute.org>
-<www.taichiproduction.com>
-<www.reconstruction-posturale.com>
-<www.vistawell.ch>
-<www.stilldynamics.org> – « L’art de rester debout immobile », « The Dynamic Of Standing Still »
-<www.physioswiss.ch>
-<www.sigvaris.ch> – Bas de contention
+<http://www.taichiforhealthinstitute.org>
+
+<http://www.taichiproduction.com>
+
+<http://www.reconstruction-posturale.com>
+
+<http://www.vistawell.ch>
+
+<http://www.stilldynamics.org> – « L’art de rester debout immobile », « The Dynamic Of Standing Still »
+
+<http://www.physioswiss.ch>
+
+<http://www.sigvaris.ch> – Bas de contention

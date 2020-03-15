@@ -22,17 +22,19 @@ L’ostéopathie est une médecine, à la fois préventive et curative, basée s
 Médecine complémentaire, elle s’intéresse non seulement aux symptômes physiques, mais aussi aux habitudes de vie et à l’état global du patient.
 
 ## Note personnelle dans mes traitements
+
 Je pratique le yoga depuis de nombreuses années et j’intègre ses principes dans mes traitements d’ostéopathie.
 A la fin de chaque séance je vous propose quelques postures  adaptées à chacun d’entre vous et qui sont faciles à intégrer à votre quotidien.
 
 ## Mes consultations d’ostéopathie sont destinées aux
+
 Enfants, adolescents et adultes ayant des troubles fonctionnels :
 
-- de l’appareil locomoteur (maux de dos, névralgies, entorses, tendinites,..)
-- de la sphère ORL (mâchoire, vertiges,..)
-- du système digestif
-- du système respiratoire
-- du système génito-urinaire
+* de l’appareil locomoteur (maux de dos, névralgies, entorses, tendinites,..)
+* de la sphère ORL (mâchoire, vertiges,..)
+* du système digestif
+* du système respiratoire
+* du système génito-urinaire
   
 Mamans avant et après l’accouchement.
 
@@ -60,17 +62,17 @@ Actuellement les traitements en ostéopathie ne sont pas remboursés par l’ass
 
 __Le type de prise en charge dépend de votre contrat d’assurance. Nous vous recommandons de vous renseigner auprès de votre assurance avant la première consultation.__
 
-## Liens utiles
+## Liens Utiles
 
 ### Cours
 
 * Yoga – Ferrari Fausta - 032 724 71 92
-* Tai Chi For Health – Anne-Line Poulsen – <www.tresor9.ch/anne-linepoulsen/#taichi>
-* La pleine Conscience au quotidien - <www.martine.dubois.ch>
-* Haptonomie - <www.hapto.ch>
+* Tai Chi For Health – Anne-Line Poulsen – <http://www.tresor9.ch/anne-linepoulsen/#taichi>
+* La pleine Conscience au quotidien - <http://www.martine.dubois.ch>
+* Haptonomie - <http://www.hapto.ch>
 
-### Matériel
+### Matériel
 
-* Ceinture de grossesse - <www.vertbaudet.ch/fr/ceinture-physiomat-confort>
-* Coussin SITO Coccyx - Vistawell - <www.vistawell.ch>
+* Ceinture de grossesse - <http://www.vertbaudet.ch/fr/ceinture-physiomat-confort>
+* Coussin SITO Coccyx - Vistawell - <http://www.vistawell.ch>
 * Semelles VIVA - M. Künzi - Place Coquillon 4, 2000 Neuchâtel
