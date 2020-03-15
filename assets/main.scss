@@ -23,7 +23,7 @@
     margin-bottom: 5em;
     margin-top: 0em;
     color: white;
-    height: 500px;
+    height: 600px;
 
     .background {
         position: absolute;
@@ -54,7 +54,16 @@
 .navbar {
 
     background-color: white;
-    height: 3em;
+    height: 5em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+
+}
+
+.page {
+
+    margin-top: 0em !important;
+    padding-top: 0em !important;
 
 }
 
