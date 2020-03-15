@@ -44,10 +44,10 @@
         margin-top: 1em;
         margin-bottom: 1em;
         font-size: 2em;
-        @include media-breakpoint-up(sm) { font-size: 1.5em; }
+        @include media-breakpoint-up(sm) { font-size: 2em; }
         @include media-breakpoint-up(md) { font-size: 2em; }
         @include media-breakpoint-up(lg) { font-size: 2em; }
-        @include media-breakpoint-up(xl) { font-size: 2.5em; }
+        @include media-breakpoint-up(xl) { font-size: 3em; }
     }
 }
 
