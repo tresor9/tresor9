@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/css/main.css">
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+              <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-item nav-link" href="#">Features</a>
+              <a class="nav-item nav-link" href="#">Pricing</a>
+              <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+      <div class="row">
+        <div class="col-12">
+          {{ content }}
+        </div>
+      </div>
+    </main>
+
+  </body>
+</html>

@@ -6,3 +6,5 @@
 docs/.jekyll-metadata/*
 docs/_site/*
 
+# scss cache data
+.sass-cache/
