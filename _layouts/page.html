@@ -6,16 +6,11 @@ layout: default
   {%
     include header.html
     text=page.title
-    url=page.url
+    img=page.img
   %}
 
   <section>
-    <div>
-      {{ page.title }} {{ page.img }}
-    </div>
-    <div>
-      {{ content }}
-    </div>
+    {{ content }}
   </section>
 
 </article>

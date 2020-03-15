@@ -8,14 +8,22 @@
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 @import "bootstrap_customization";
 
+@mixin stretch-to-vw() {
+    position: relative;
+    width: 100vw;
+    margin-left: -50vw;
+    left: 50%;
+}
+
 .header {
 
-    // @include stretch-to-vw;
+    @include stretch-to-vw;
 
     overflow: hidden;
     margin-bottom: 5em;
-    margin-top: 5em;
+    margin-top: 0em;
     color: white;
+    min-height: 500px;
 
     .background {
         position: absolute;
@@ -33,14 +41,21 @@
     }
 
     h1 {
-        margin-top: 3em;
+        margin-top: 1em;
         margin-bottom: 1em;
-        font-size: 1.5em;
-        @include media-breakpoint-up(sm) { font-size: 2em; }
-        @include media-breakpoint-up(md) { font-size: 3em; }
-        @include media-breakpoint-up(lg) { font-size: 3em; }
-        @include media-breakpoint-up(xl) { font-size: 4em; }
+        font-size: 1em;
+        @include media-breakpoint-up(sm) { font-size: 0.5em; }
+        @include media-breakpoint-up(md) { font-size: 1em; }
+        @include media-breakpoint-up(lg) { font-size: 1.5em; }
+        @include media-breakpoint-up(xl) { font-size: 2em; }
     }
+}
+
+.navbar {
+
+    background-color: white;
+    height: 3em;
+
 }
 
 main {
