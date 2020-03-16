@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dr Jean-Pierre Walker
-img: assets/images/cabinet_mayoly.jpg
+img: assets/images/cabinet_walker.jpg
 ---
 
 ## Psychiatre – Psychologue
