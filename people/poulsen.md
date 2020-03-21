@@ -73,36 +73,36 @@ Document - [Les 6 principes essentiels du Tai Chi](/assets/documents/taichi/prin
 
 [Tai Chi for Health Institute](https://taichiforhealthinstitute.org/instructors/instructor/?instructor_id=8289)
 
-### Automne 2019
-
-Pour la session d’Automne 2019, ouverture d’un cours débutants à Cortaillod les mercredis de 16h45 à 17h45. Le nombre de participants étant limité, n’hésitez pas à prendre contact déjà maintenant.
+### Printemps 2020 - EN ESPÉRANT QUE LES CONDITIONS SANITAIRES LE PERMETTENT
 
 #### La Coudre Neuchâtel
-
-La session d’automne 2019 à La Coudre, salle de paroisse, aura lieu les mardis 3.9, 10.9, 17.9, 24.9, 1.10, 22.10, 29.10, 5.11, 12.11, 19.11, 26.11 et 3.12 selon l’horaire suivant :
+La session de printemps 2020 à La Coudre, salle de paroisse, aura lieu les mardis 28.04, 5.05, 12.05, 19.05, 26.05, 2.06, 16.6, 23.6 selon l’horaire suivant:
 
 16h30 – 17h30 : Sun Style forme courte et Sun 73 et application des principes essentiels du Tai Chi.
 17h30 – 18h30 : Sun Style forme courte et application des principes essentiels du Tai Chi.
-Soit leçons 12 pour le prix de 240.00CHF.
 
-Réservez le 10 décembre pour un souper en commun.
+__Soit leçons 8 pour le prix de 120.00CHF (au lieu de CHF : pour compenser les leçons en ligne de l’hiver 2020.__
+
+Réservez le 30.06 pour un souper en commun.
 
 #### Cortaillod
 
-La session d’automne 2019 à Cortaillod, Aula de l’école primaire, aura lieu les mercredis 4.9, 11.9, 18.9, 25.9, 2.10, 23.10, 30.10, 6.11, 13.11, 20.11, 27.11 et 4.12 selon l’horaire suivant :
+La session de printemps à Cortaillod, Aula de l’école primaire, aura lieu les mercredis 29.04, 6.05, 13.05, 20.05, 27.05, 3.06, 17.06, 24.06 selon l’horaire suivant :
 
 16h45 – 17h45 : Débutants – Sun Style forme courte – application des principes essentiels du Tai Chi
 17h45 – 18h45 : Sun Style forme courte et apprentissage Sun 73.
 19h00 – 20h00 : Sun Style forme courte et Sun 73 et application des principes essentiels du Tai Chi.
 
-__Soit 12 leçons pour le prix de 240CHF. Pas de cours pendant les vacances scolaires.__
+__Soit leçons 8 pour le prix de 120.00CHF (au lieu de CHF : pour compenser les leçons en ligne de l’hiver 2020.__
 
-__Réservez le 11 décembre pour un souper en commun.__
+__Réservez le 1 er juillet pour un souper en commun.__
 
-Inscriptions :
+Inscriptions:
 
 Anne-Line Poulsen
+
 Rue du Trésor 9
+
 2000 Neuchâtel
 
 annelinepoulsen@gmail.com
@@ -117,6 +117,10 @@ C’est donc l’identité même de la personne qui est redéfinie au cours d’
 
 Thierry Janssen – La Solution Intérieure
 
+Je m'bserve moi-même et c'est ainsi que je réussis à connaître les autres.
+
+Lao Tseu
+
 Your body is your subconscious mind.
 
 Candace Pert
@@ -124,6 +128,33 @@ Candace Pert
 Ceux qui prétendent détenir la vérité sont ceux qui ont abandonné la poursuite du chemin vers elle. La vérité ne se possède pas, elle se cherche.
 
 Albert Jaccard
+
+Pour vivre pleinement sa vie, il n'est pas nécessaire d'agir.
+Pour vivre pleinement sa vie, il est indispensable d'être.
+Ta vie est un bloc d'argile. Ne laisse personne la modeler à ta place.
+Plus on voyage au loin, moins on se connait
+Il n'y a point de chemin vers le bonheur. Le bonheur, c'est le chemin.
+Lao Tseu
+
+Bibliographie
+
+The Dynamics Of Standing Still – Peter Den Dekker
+
+Tai Chi – La méditation en mouvement – Peter M. Wayne
+
+The Way Of Energy – Master Lam Kam Chuen
+
+Mobilizing The Myofascial System – Doreen Killens
+
+Anatomy Trains - Thomas W. Myers
+
+Medical Therapeutic Yoga – Ginger Garner
+
+La solution intérieure – Thierry Janssen
+
+Molecules of Emotion – Candace Pert
+
+Le Corps quantique – Dr Deepak Chopra
 
 ## Liens
 
