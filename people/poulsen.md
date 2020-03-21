@@ -39,16 +39,37 @@ Salle Paroissale de la Coudre, Chemin du Crêt du Chêne, 2000 Neuchâtel.
 
 *Adaptation des principes essentiels du Tai Chi à la vie quotidienne et hygiène vertébrale.*
 
+Grâce à mes différentes formations et mon envie de toujours mieux comprendre le fonctionnement de l’Être Humain dans sa globalité (Body – Mind - Spirit), j’ai été amenée à comparer différents concepts, principes ou techniques, occidentales et orientales.
+
+Chercher leurs points communs, voir comment les différentes idéologies s’imbriquent, constater que les effets du même mouvement sont expliqués de manière différente suivant les concepts est passionnant.
+
+Mes longues années d’études en Reconstruction Posturale m’ont ouverte à ce qu’est l’unicité du corps humain. Puis mes études sur le travail de mobilisation des fascias ont complété cette prise de conscience.
+
+Mon travail en Tai Chi Chuan, art martial interne, gymnastique méditative, m’a permis de mieux ressentir ce qui se passe en moi, au niveau physique, psychique ainsi que les relations directes entre l’émotionnel et le physique.
+
+Quand le corps respire la santé, c’est comme s’il était traversé par des fluides qui circulent
+agréablement, librement, sans encombre.
+
+C’est comme si l’apparition d’un embouteillage dans cette circulation amenait douleurs ou maladie que sont entre autres, les hypertonies musculaires, les contractures, les blocages articulaires, …
+
+Par mon travail manuel, j’essaye de libérer ces embouteillages, de relâcher les contractures, de retrouver les mobilités articulaires et fasciales.
+
+Par mon enseignement d’exercices à pratiquer régulièrement, j’essaye de donner à mes patients des clés pour pouvoir prévenir ou libérer les contractures musculaires, les limitations articulaires ou fasciales.
+
+Pendant la pratique des exercices, se concentrer sur ce que l’on ressent, augmente leur efficacité de manière très importante. La gymnastique méditative est une clé très importante pour booster l’efficacité de tout exercice.
+
 ## Cours de Physio Tai Chi – Tai Chi For Health
 
 Enseignement de Sun Style forme courte et Sun Style 73 les mardis en fin d’après-midi à la salle paroissiale de la Coudre à Neuchâtel et les mercredis en fin d’après-midi à l’Aula de l’école primaire de Cortaillod.
-Neuchâtel Physio Tai Chi Physiothérapie PhysiothérapeuteLa forme courte de Sun Style a été adaptée par le Dr Paul Lam et ses collaborateurs. Dr Paul Lam concentre actuellement ses activités sur la médecine préventive, le programme de Tai Chi For Health (Tai Chi pour la santé). Les différents programmes de Tai Chi for Health permettent de travailler force, souplesse et équilibre, de diminuer le stress, de réguler la tension artérielle en augmentant la sensation de bien-être et de détente, et de renforcer la musculature profonde. Tai Chi for Health est adapté pour toute personne voulant se maintenir en bonne santé ou souffrant de maladies comme rhumatismes, hypertension artérielle, diabète, etc.
+
+La forme courte de Sun Style a été adaptée par le Dr Paul Lam et ses collaborateurs. Dr Paul Lam concentre actuellement ses activités sur la médecine préventive, le programme de Tai Chi For Health (Tai Chi pour la santé). Les différents programmes de Tai Chi for Health permettent de travailler force, souplesse et équilibre, de diminuer le stress, de réguler la tension artérielle en augmentant la sensation de bien-être et de détente, et de renforcer la
+musculature profonde. Tai Chi for Health est adapté pour toute personne voulant se maintenir en bonne santé ou souffrant de maladies comme rhumatismes, hypertension artérielle, diabète, etc.
 
 Le début des cours a lieu à la reprise scolaire de janvier, à la reprise scolaire de Pâques et les premiers mardi et mercredi de septembre.
 
-Les documents pour les participants aux cours de Physio Tai Chi peuvent être téléchargés ici.
+Les documents pour les participants aux cours de Physio Tai Chi peuvent être téléchargés [ici](/people/poulsen-login.html).
 
-Les 6 principes essentiels du Tai Chi
+Document - [Les 6 principes essentiels du Tai Chi](/assets/documents/taichi/principes-essentiels-tai-chi.pdf)
 
 [Tai Chi for Health Institute](https://taichiforhealthinstitute.org/instructors/instructor/?instructor_id=8289)
 

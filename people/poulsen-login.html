@@ -1,0 +1,56 @@
+---
+layout: page
+title: Anne-Line Poulsen
+img: assets/images/vue_poulsen.jpg
+---
+<div id="loginbox" class="container center" >
+    <div class="row justify-content-center">
+        <div class="col justify-content-center">
+            <div class="form-group">
+                <label for="password">Mot de passe donné lors des cours de Tai-Chi.</label>
+                <input class="form-control" id="password" type="password" placeholder="mot de passe" />
+            </div>
+            <button class="btn btn-primary ml-6" id="loginbutton" type="button">Valider</button>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript" src="https://rawcdn.githack.com/chrisveness/crypto/7067ee62f18c76dd4a9d372a00e647205460b62b/sha1.js"></script>
+<script type="text/javascript">
+    "use strict";
+    function loadPage(pwd) {
+
+        var hash= pwd;
+        hash= Sha1.hash(pwd);
+        var url= hash + "/poulsen-documents.html";
+
+        $.ajax({
+            url : url,
+            dataType : "html",
+            success : function(data) {
+
+                window.location= url;
+
+            },
+            error : function(xhr, ajaxOptions, thrownError) {
+
+
+                parent.location.hash = hash;
+
+                $("#password").attr("placeholder","Mauvais mot de passe!");
+                $("#password").val("");
+            }
+        });
+    }
+    $("#loginbutton").on("click", function() {
+        loadPage($("#password").val());
+    });
+    $("#password").keypress(function(e) {
+        if (e.which == 13) {
+
+            loadPage($("#password").val());
+        }
+    });
+    $("#password").focus();
+</script>
