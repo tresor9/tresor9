@@ -76,12 +76,13 @@ Document - [Les 6 principes essentiels du Tai Chi](/assets/documents/taichi/prin
 ### Printemps 2020 - EN ESPÉRANT QUE LES CONDITIONS SANITAIRES LE PERMETTENT
 
 #### La Coudre Neuchâtel
+
 La session de printemps 2020 à La Coudre, salle de paroisse, aura lieu les mardis 28.04, 5.05, 12.05, 19.05, 26.05, 2.06, 16.6, 23.6 selon l’horaire suivant:
 
 16h30 – 17h30 : Sun Style forme courte et Sun 73 et application des principes essentiels du Tai Chi.
 17h30 – 18h30 : Sun Style forme courte et application des principes essentiels du Tai Chi.
 
-__Soit leçons 8 pour le prix de 120.00CHF (au lieu de CHF : pour compenser les leçons en ligne de l’hiver 2020.__
+__Soit 8 leçons pour le prix de 120.00CHF (au lieu de 160CHF: pour compenser les leçons en ligne de l’hiver 2020).__
 
 Réservez le 30.06 pour un souper en commun.
 
@@ -93,7 +94,7 @@ La session de printemps à Cortaillod, Aula de l’école primaire, aura lieu le
 17h45 – 18h45 : Sun Style forme courte et apprentissage Sun 73.
 19h00 – 20h00 : Sun Style forme courte et Sun 73 et application des principes essentiels du Tai Chi.
 
-__Soit leçons 8 pour le prix de 120.00CHF (au lieu de CHF : pour compenser les leçons en ligne de l’hiver 2020.__
+__Soit 8 leçons pour le prix de 120.00CHF (au lieu de 160CHF: pour compenser les leçons en ligne de l’hiver 2020).__
 
 __Réservez le 1 er juillet pour un souper en commun.__
 
@@ -111,32 +112,21 @@ annelinepoulsen@gmail.com
 
 ## Articles – Citations
 
-…Les os, les muscles, les ligaments et les tendons peuvent donc être considérés comme un système en tenségrité. De ce fait, le moindre raccourcissement ou le plus léger raidissement diminue la capacité du corps à absorber les pressions et les déformations. Par ailleurs, comme dans une sorte de « train anatomique », une blessure localisée à un endroit favorise l’apparition d’autres lésions, à distance. Le contraire se vérifie également: l’amélioration de la flexibilité d’une zone corporelle influence le redressement et la guérison de l’ensemble.
+"Les os, les muscles, les ligaments et les tendons peuvent donc être considérés comme un système en tenségrité. De ce fait, le moindre raccourcissement ou le plus léger raidissement diminue la capacité du corps à absorber les pressions et les déformations. Par ailleurs, comme dans une sorte de «train anatomique», une blessure localisée à un endroit favorise l’apparition d’autres lésions, à distance. Le contraire se vérifie également: l’amélioration de la flexibilité d’une zone corporelle influence le redressement et la guérison de l’ensemble. C’est donc l’identité même de la personne qui est redéfinie au cours d’un travail corporel." - Thierry Janssen, La Solution Intérieure
 
-C’est donc l’identité même de la personne qui est redéfinie au cours d’un travail corporel.
+"Je m'observe moi-même et c'est ainsi que je réussis à connaître les autres." - Lao Tseu
 
-Thierry Janssen – La Solution Intérieure
+"Your body is your subconscious mind." - Candace Pert
 
-Je m'bserve moi-même et c'est ainsi que je réussis à connaître les autres.
+"Ceux qui prétendent détenir la vérité sont ceux qui ont abandonné la poursuite du chemin vers elle. La vérité ne se possède pas, elle se cherche." - Albert Jaccard
 
-Lao Tseu
+"Pour vivre pleinement sa vie, il n'est pas nécessaire d'agir. Pour vivre pleinement sa vie, il est indispensable d'être.
 
-Your body is your subconscious mind.
-
-Candace Pert
-
-Ceux qui prétendent détenir la vérité sont ceux qui ont abandonné la poursuite du chemin vers elle. La vérité ne se possède pas, elle se cherche.
-
-Albert Jaccard
-
-Pour vivre pleinement sa vie, il n'est pas nécessaire d'agir.
-Pour vivre pleinement sa vie, il est indispensable d'être.
 Ta vie est un bloc d'argile. Ne laisse personne la modeler à ta place.
-Plus on voyage au loin, moins on se connait
-Il n'y a point de chemin vers le bonheur. Le bonheur, c'est le chemin.
-Lao Tseu
 
-Bibliographie
+Plus on voyage au loin, moins on se connait. Il n'y a point de chemin vers le bonheur. Le bonheur, c'est le chemin." - Lao Tseu
+
+### Bibliographie
 
 The Dynamics Of Standing Still – Peter Den Dekker
 
@@ -165,8 +155,6 @@ Le Corps quantique – Dr Deepak Chopra
 <http://www.reconstruction-posturale.com>
 
 <http://www.vistawell.ch>
-
-<http://www.stilldynamics.org> – « L’art de rester debout immobile », « The Dynamic Of Standing Still »
 
 <http://www.physioswiss.ch>
 
