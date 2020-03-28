@@ -2849,9 +2849,6 @@ a.btn:hover { transform: scale(1.1, 1.1); -webkit-transform: scale(1.1, 1.1); -m
 @media (min-width: 1200px) { .footer-img { margin-right: 0em; } }
 
 .footer-content { margin-top: 1em; margin-bottom: 2em; }
-@media (min-width: 768px) { .footer-content { height: 300px; } }
-@media (min-width: 992px) { .footer-content { height: 400px; } }
-@media (min-width: 1200px) { .footer-content { height: 500px; } }
 
 main img { max-width: 100%; margin: 0 auto; display: block; }
 main iframe { width: 100%; border: none; margin-left: auto; margin-right: auto; }

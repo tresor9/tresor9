@@ -202,19 +202,6 @@ a.btn:hover {
 .footer-content {
     margin-top: 1em;
     margin-bottom: 2em;
-
-    @include media-breakpoint-up(md) { 
-        height: 300px;
-    }
-
-    @include media-breakpoint-up(lg) { 
-        height: 400px;
-    }
-
-    @include media-breakpoint-up(xl) { 
-        height: 500px;
-    }
-
 }
 
 main {
