@@ -163,24 +163,24 @@ a.btn:hover {
     margin-bottom: 2em;
 
     @include media-breakpoint-up(xs) { 
-        margin-left: 1em;
-        margin-right: 1em;
+        margin-left: 0em;
+        margin-right: 0em;
     }
     @include media-breakpoint-up(sm) { 
-        margin-left: 1em;
-        margin-right: 1em;
+        margin-left: 0em;
+        margin-right: 0em;
     }
 
     @include media-breakpoint-up(md) { 
-        margin-left: 1em;
+        margin-right: 0em;
     }
 
     @include media-breakpoint-up(lg) { 
-        margin-left: 1em;
+        margin-right: 0em;
     }
 
     @include media-breakpoint-up(xl) { 
-        margin-left: 1em;
+        margin-right: 0em;
     }
 
 }
@@ -192,24 +192,51 @@ a.btn:hover {
     padding-right: 0em;
 
     @include media-breakpoint-up(xs) { 
-        margin-left: 1em;
-        margin-right: 1em;
+        margin-left: 0em;
+        margin-right: 0em;
     }
     @include media-breakpoint-up(sm) { 
-        margin-left: 1em;
-        margin-right: 1em;
+        margin-left: 0em;
+        margin-right: 0em;
     }
 
     @include media-breakpoint-up(md) { 
-        margin-right: 1em;
+        margin-right: 0em;
     }
 
     @include media-breakpoint-up(lg) { 
-        margin-right: 1em;
+        margin-right: 0em;
     }
 
     @include media-breakpoint-up(xl) { 
-        margin-right: 1em;
+        margin-right: 0em;
+    }
+
+}
+
+.footer-content {
+    margin-top: 1em;
+    margin-bottom: 2em;
+    padding-left: 0em;
+    padding-right: 0em;
+
+    @include media-breakpoint-up(xs) { 
+        height: 100px;
+    }
+    @include media-breakpoint-up(sm) { 
+        height: 200px;
+    }
+
+    @include media-breakpoint-up(md) { 
+        height: 300px;
+    }
+
+    @include media-breakpoint-up(lg) { 
+        height: 400px;
+    }
+
+    @include media-breakpoint-up(xl) { 
+        height: 500px;
     }
 
 }
