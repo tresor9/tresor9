@@ -134,6 +134,30 @@ a.btn:hover {
     -moz-transform:scale(1.1, 1.1);
 }
 
+.home-image {
+
+    @include media-breakpoint-up(md) { 
+        margin-right: 8em;
+    }
+    @include media-breakpoint-up(lg) { 
+        margin-right: 8em;
+    }
+    @include media-breakpoint-up(xl) { 
+        margin-right: 8em;
+    }
+}
+
+.home-contact {
+    @include media-breakpoint-up(xs) { 
+        margin-top: 1.5em;
+        margin-bottom: 3em;
+    }
+    @include media-breakpoint-up(sm) { 
+        margin-top: 1.5em;
+        margin-bottom: 3em;
+    }
+}
+
 main {
 
     img {
