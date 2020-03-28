@@ -16,8 +16,11 @@ La physiothérapie est pratiquée sur prescription médicale et remboursée par 
 
 ## Contact
 
-* Téléphone: 079 268 72 42
-* E-Mail: annelinepoulsen@gmail.com
+{%
+include contact.html
+email="annelinepoulsen@gmail.com"
+phone="079 268 72 42"
+%}
 
 ### Adresse cabinet de physiothérapie
 
@@ -67,11 +70,11 @@ musculature profonde. Tai Chi for Health est adapté pour toute personne voulant
 
 Le début des cours a lieu à la reprise scolaire de janvier, à la reprise scolaire de Pâques et les premiers mardi et mercredi de septembre.
 
-Les documents pour les participants aux cours de Physio Tai Chi peuvent être téléchargés [ici](/people/poulsen-login.html).
+**Les documents pour les participants aux cours de Physio Tai Chi peuvent être téléchargés [ici](/people/poulsen-login.html).**
 
 Document - [Les 6 principes essentiels du Tai Chi](/assets/documents/taichi/principes-essentiels-tai-chi.pdf)
 
-[Tai Chi for Health Institute](https://taichiforhealthinstitute.org/instructors/instructor/?instructor_id=8289)
+Lien - [Tai Chi for Health Institute](https://taichiforhealthinstitute.org/instructors/instructor/?instructor_id=8289)
 
 ### Printemps 2020 - EN ESPÉRANT QUE LES CONDITIONS SANITAIRES LE PERMETTENT
 
@@ -100,15 +103,14 @@ __Réservez le 1 er juillet pour un souper en commun.__
 
 Inscriptions:
 
-Anne-Line Poulsen
-
-Rue du Trésor 9
-
-2000 Neuchâtel
-
-annelinepoulsen@gmail.com
-
-079 268 72 42
+{%
+include contact.html
+name="Anne-Line Poulsen"
+address1="Rue du Trésor 9"
+address2="2000 Neuchâtel"
+email="annelinepoulsen@gmail.com"
+phone="079 268 72 42"
+%}
 
 ## Articles – Citations
 
@@ -124,7 +126,9 @@ annelinepoulsen@gmail.com
 
 Ta vie est un bloc d'argile. Ne laisse personne la modeler à ta place.
 
-Plus on voyage au loin, moins on se connait. Il n'y a point de chemin vers le bonheur. Le bonheur, c'est le chemin." - Lao Tseu
+Plus on voyage au loin, moins on se connait. Il n'y a point de chemin vers le bonheur. Le bonheur, c'est le chemin."
+
+\- Lao Tseu
 
 ### Bibliographie
 

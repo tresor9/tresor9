@@ -6,4 +6,7 @@ img: assets/images/cabinet_walker.jpg
 
 ## Psychiatre – Psychologue
 
-076 635 10 75
+{%
+include contact.html
+phone="076 635 10 75"
+%}

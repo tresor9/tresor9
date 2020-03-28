@@ -1,0 +1,21 @@
+
+<p>
+    {%- if include.name -%}
+        {{ include.name }} <br />
+    {%- endif include.name -%}
+    {%- if include.address1 -%}
+        {{ include.address1 }} <br />
+    {%- endif include.address1 -%}
+    {%- if include.address2 -%}
+        {{ include.address2 }} <br />
+    {%- endif include.address2 -%}
+    {%- if include.email -%}
+        E-Mail: <a href="mailto:{{ include.email }}">{{ include.email }}</a> <br />
+    {%- endif include.email -%}
+    {%- if include.phone -%}
+        Téléphone: {{ include.phone }} <br />
+    {%- endif include.phone -%}
+    {%- if include.mobile -%}
+        Mobile (SMS, WhatsApp): {{ include.mobile }} <br />
+    {%- endif include.mobile -%}
+</p>

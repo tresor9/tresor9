@@ -6,7 +6,7 @@ img: assets/images/cabinet_waeber.jpg
 
 ## Ostéopathe CDS (reconnaissance fédérale)
 
-### Ostéopathie
+### Ostéopathie
 
 Le corps humain est un tout, une unité fonctionnelle complexe.
 C’est le constat que j’ai fait en traitant de nombreux patients comme physiothérapeute, et
@@ -38,8 +38,11 @@ dans la direction où il est capable d’aller." (Thierry Janssen)
 
 ### Consultations sur rendez-vous
 
-* Téléphone: 032 841 50 79
-* E-mail: annewaeber@osteopathe-neuchatel.ch
+{%
+include contact.html
+email="annewaeber@osteopathe-neuchatel.ch"
+phone="032 841 50 79"
+%}
 
 Prévoir environ 1 heure pour la première séance et 45 à 50 mn pour les suivantes ( même
 chose pour les bébés)

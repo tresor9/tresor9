@@ -46,9 +46,12 @@ Sportifs
 
 ## Consultations sur rendez-vous par
 
-* Téléphone: 032 721 23 00
-* Mobile, SMS/ What’s app: 079 435 32 61
-* Mail: osteo_mayoly@bluewin.ch
+{%
+include contact.html
+email="osteo_mayoly@bluewin.ch"
+phone="032 721 23 00"
+mobile="079 435 32 61"
+%}
 
 Prévoir environ une heure par séance
 
