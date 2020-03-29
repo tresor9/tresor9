@@ -2838,18 +2838,6 @@ a.btn:hover { transform: scale(1.1, 1.1); -webkit-transform: scale(1.1, 1.1); -m
 .home-contact { margin-top: 1.5em; margin-bottom: 3em; }
 @media (min-width: 576px) { .home-contact { margin-top: 1.5em; margin-bottom: 3em; } }
 
-.embed-responsive { padding-left: 1em !important; padding-right: 1em !important; border: 1em; }
-
-.embed-responsive-item { padding-left: 1em !important; padding-right: 1em !important; border: 1em; }
-
-.footer-img { margin-top: 1em; margin-bottom: 2em; padding-left: 0em; padding-right: 0em; margin-left: 0em; margin-right: 0em; }
-@media (min-width: 576px) { .footer-img { margin-left: 0em; margin-right: 0em; } }
-@media (min-width: 768px) { .footer-img { margin-right: 0em; } }
-@media (min-width: 992px) { .footer-img { margin-right: 0em; } }
-@media (min-width: 1200px) { .footer-img { margin-right: 0em; } }
-
-.footer-content { margin-top: 1em; margin-bottom: 2em; }
-
 main img { max-width: 100%; margin: 0 auto; display: block; }
 main iframe { width: 100%; border: none; margin-left: auto; margin-right: auto; }
 main .image { font-size: 0.5em; }
