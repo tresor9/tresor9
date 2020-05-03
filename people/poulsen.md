@@ -71,7 +71,9 @@ Les documents pour les participants aux cours de Physio Tai Chi peuvent être t�
 
 [Tai Chi for Health Institute](https://taichiforhealthinstitute.org/instructors/instructor/?instructor_id=8289)
 
-### Printemps 2020 - EN ESPÉRANT QUE LES CONDITIONS SANITAIRES LE PERMETTENT – en attendant que les cours reprennent normalement, cours en ligne sur Zoom
+### Printemps 2020
+
+#### EN ESPÉRANT QUE LES CONDITIONS SANITAIRES LE PERMETTENT – en attendant que les cours reprennent normalement, cours en ligne sur Zoom
 
 #### La Coudre Neuchâtel
 
