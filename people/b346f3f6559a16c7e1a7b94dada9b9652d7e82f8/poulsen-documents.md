@@ -18,6 +18,6 @@ Cliquez sur le nom du document pour le télécharger.
 * [The Unfolding Bud](/assets/documents/taichi/TheUnfoldingBud.pdf)
 * [Huit postures archetype](/assets/documents/taichi/PeterDenDekker.pdf)
 * [Ba Duan Jin et Chi Kung Postural – Les huits pièces de Brocart](/assets/documents/taichi/pieces-brocart-ba-duan-jin.pdf)
-* [Tapotage des 8 fossettes](/assets/documents/taichi/tapotage-des-8-fossettes.pdf)
+* [Tapotage des 8 fossettes](/assets/documents/taichi/tapotages-des-8-fossettes.pdf)
 * [Videos et audios Physio Tai Chi](https://www.dropbox.com/sh/eu7nsnhticf3m3v/AAAJQvRzi7OHzGO5Z-hbCejwa?dl=0)
 * [Les 6 cercles ou la danse du dragon](https://www.youtube.com/watch?v=LkxQKvyRc3E)
