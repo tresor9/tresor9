@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Trésor 9 - Ostéopathie, Physiothérapie, Psychiatrie
+title: Trésor 9 - Ostéopathie, Physiothérapie et Tai Chi for Health
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Site internet pour le cabinet d'ostéopathie, de physiothérapie et de psychiatrie, Rue du Trésor 9, 2000 Neuchâtel.
+  Site internet pour le cabinet d'ostéopathie et de physiothérapie, Rue du Trésor 9, 2000 Neuchâtel.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -29,7 +29,6 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - people/walker.md
   - people/mayoly.md
   - people/waeber.md
   - people/poulsen.md
