@@ -71,34 +71,7 @@ Les documents pour les participants aux cours de Physio Tai Chi peuvent être t�
 
 [Tai Chi for Health Institute](https://taichiforhealthinstitute.org/instructors/instructor/?instructor_id=8289)
 
-### Printemps 2020
-
-#### EN ESPÉRANT QUE LES CONDITIONS SANITAIRES LE PERMETTENT – en attendant que les cours reprennent normalement, cours en ligne sur Zoom
-
-#### La Coudre Neuchâtel
-
-La session de printemps 2020 à La Coudre, salle de paroisse, aura lieu les mardis 28.04, 5.05, 12.05, 19.05, 26.05, 2.06, 9.06, 16.06, 23.06 selon l’horaire suivant :
-
-16h30 – 17h30 : Sun Style forme courte et Sun 73 et application des principes essentiels du Tai Chi.
-17h30 – 18h30 : Sun Style forme courte et application des principes essentiels du Tai Chi.
-
-Le prix du cours sera déterminé à la reprise des cours à La Coudre. En attendant, cours sur Zoom.
-
-Réservez le 30.06 pour un souper en commun.
-
-#### Cortaillod
-
-La session de printemps à Cortaillod, Aula de l’école primaire, aura lieu les mercredis 29.04, 6.05, 13.05, 20.05, 27.05, 3.06, 10.06, 17.06, 24.06 selon l’horaire suivant :
-
-16h45 – 17h45 : Débutants – Sun Style forme courte – application des principes essentiels du Tai Chi
-17h45 – 18h45 : Sun Style forme courte et apprentissage Sun 73.
-19h00 – 20h00 : Sun Style forme courte et Sun 73 et application des principes essentiels du Tai Chi.
-
-Le prix du cours sera déterminé à la reprise des cours à Cortaillod. En attendant, cours sur Zoom.
-
-Réservez le 1er juillet pour un souper en commun. __
-
-Inscriptions :
+**Renseignements:**
 
 {%
 include contact.html
