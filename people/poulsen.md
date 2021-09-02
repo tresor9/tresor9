@@ -60,7 +60,6 @@ Même concentré sur son travail, on peut rester en contact avec son corps physi
 
 ## Cours de Physio Tai Chi – Tai Chi For Health
 
-Enseignement de Sun Style forme courte et Sun Style 73 les mardis en fin d’après-midi à la salle paroissiale de la Coudre à Neuchâtel et les mercredis en fin d’après-midi à l’Aula de l’école primaire de Cortaillod.<br>
 La forme courte de Sun Style a été adaptée par le Dr Paul Lam et ses collaborateurs. Dr Paul Lam concentre actuellement ses activités sur la médecine préventive, le programme de Tai Chi For Health (Tai Chi pour la santé). Les différents programmes de Tai Chi for Health permettent de travailler force, souplesse et équilibre, de diminuer le stress, de réguler la tension artérielle en augmentant la sensation de bien-être et de détente, et de renforcer la musculature profonde. Tai Chi for Health est adapté pour toute personne voulant se maintenir en bonne santé ou souffrant de maladies comme rhumatismes, hypertension artérielle, diabète, etc.
 
 Le début des cours a lieu à la reprise scolaire de janvier, à la reprise scolaire de Pâques et les premiers mardi et mercredi de septembre.
@@ -81,16 +80,6 @@ address2="2000 Neuchâtel"
 email="annelinepoulsen@gmail.com"
 phone="079 268 72 42"
 %}
-
-### Adresse cabinet de physiothérapie
-
-Rue du Trésor 9, 2000 Neuchâtel.
-
-### Adresses cours de Physio Tai Chi
-
-Aula de l’école primaire de Cortaillod, Collège des Corneilles, Rue des Coteaux 3, 2016 Cortaillod.
-
-Salle Paroissale de la Coudre, Chemin du Crêt du Chêne, 2000 Neuchâtel.
 
 ## Articles – Citations
 
