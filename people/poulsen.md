@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anne-Line Poulsen
-img: assets/images/vue_poulsen.jpg
+img: assets/images/cabinet_poulsen_2.jpg
 ---
 
 ## Physiothérapeute HES
