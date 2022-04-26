@@ -137,13 +137,13 @@ a.btn:hover {
 .home-image {
 
     @include media-breakpoint-up(md) { 
-        margin-right: 8em;
+        margin-right: 2em;
     }
     @include media-breakpoint-up(lg) { 
-        margin-right: 8em;
+        margin-right: 2em;
     }
     @include media-breakpoint-up(xl) { 
-        margin-right: 8em;
+        margin-right: 2em;
     }
 }
 

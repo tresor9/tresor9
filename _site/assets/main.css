@@ -2831,9 +2831,9 @@ legend { font-family: Roboto, "Montserrat", -apple-system, system-ui, BlinkMacSy
 
 a.btn:hover { transform: scale(1.1, 1.1); -webkit-transform: scale(1.1, 1.1); -moz-transform: scale(1.1, 1.1); }
 
-@media (min-width: 768px) { .home-image { margin-right: 8em; } }
-@media (min-width: 992px) { .home-image { margin-right: 8em; } }
-@media (min-width: 1200px) { .home-image { margin-right: 8em; } }
+@media (min-width: 768px) { .home-image { margin-right: 2em; } }
+@media (min-width: 992px) { .home-image { margin-right: 2em; } }
+@media (min-width: 1200px) { .home-image { margin-right: 2em; } }
 
 .home-contact { margin-top: 1.5em; margin-bottom: 3em; }
 @media (min-width: 576px) { .home-contact { margin-top: 1.5em; margin-bottom: 3em; } }

@@ -60,15 +60,7 @@ Même concentré sur son travail, on peut rester en contact avec son corps physi
 
 ## Cours de Physio Tai Chi – Tai Chi For Health
 
-La forme courte de Sun Style a été adaptée par le Dr Paul Lam et ses collaborateurs. Dr Paul Lam concentre actuellement ses activités sur la médecine préventive, le programme de Tai Chi For Health (Tai Chi pour la santé). Les différents programmes de Tai Chi for Health permettent de travailler force, souplesse et équilibre, de diminuer le stress, de réguler la tension artérielle en augmentant la sensation de bien-être et de détente, et de renforcer la musculature profonde. Tai Chi for Health est adapté pour toute personne voulant se maintenir en bonne santé ou souffrant de maladies comme rhumatismes, hypertension artérielle, diabète, etc.
-
-Le début des cours a lieu à la reprise scolaire de janvier, à la reprise scolaire de Pâques et les premiers mardi et mercredi de septembre.
-
 Les documents pour les participants aux cours de Physio Tai Chi peuvent être téléchargés [ICI](/people/poulsen-login.html).
-
-[Les 6 principes essentiels du Tai Chi](/assets/documents/taichi/principes-essentiels-tai-chi.pdf)
-
-[Tai Chi for Health Institute](https://taichiforhealthinstitute.org/instructors/instructor/?instructor_id=8289)
 
 **Renseignements:**
 
@@ -80,6 +72,36 @@ address2="2000 Neuchâtel"
 email="annelinepoulsen@gmail.com"
 phone="079 268 72 42"
 %}
+
+### Cours en Petits Groupes
+
+Possibilité de prendre des cours en petits groupes (max. 4 personnes) ou privé.
+
+Lieu: Rue du Trésor 9 – 2000 Neuchâtel
+
+Prix pour des séances de 55 minutes :
+* Groupe de 4 personnes : CHF : 30.- par personne et par séance
+* Groupes de 3 personnes : CHF : 40.- par personne et par séance
+* Groupes de 2 personnes : CHF : 60.- par personne et par séance
+* Cours privé : 120.- par séance
+
+Vous pouvez former vos propres groupes avec vos amis ou connaissances. Nous trouverons un horaire qui vous convient. Le nombre de séances varie en fonction de vos attentes. 
+
+Vous avez travaillé une forme en ligne et avez besoin de conseils et corrections pour pouvoir progresser davantage? Il faudra quelques séances selon vos besoins.
+
+Vous voulez apprendre quelques exercices que vous pratiquerez régulièrement et qui deviendront un mode de vie ? Il faudra quelques séances selon vos besoins.
+
+Vous voulez apprendre la forme courte Sun Style ? Il faudra entre 10 et 12 séances … et de la pratique à la maison.
+
+### Tai Chi
+
+La forme courte de Sun Style a été adaptée par le Dr Paul Lam et ses collaborateurs. Dr Paul Lam concentre actuellement ses activités sur la médecine préventive, le programme de Tai Chi For Health (Tai Chi pour la santé). Les différents programmes de Tai Chi for Health permettent de travailler force, souplesse et équilibre, de diminuer le stress, de réguler la tension artérielle en augmentant la sensation de bien-être et de détente, et de renforcer la musculature profonde. Tai Chi for Health est adapté pour toute personne voulant se maintenir en bonne santé ou souffrant de maladies comme rhumatismes, hypertension artérielle, diabète, etc.
+
+Le début des cours a lieu à la reprise scolaire de janvier, à la reprise scolaire de Pâques et les premiers mardi et mercredi de septembre.
+
+[Les 6 principes essentiels du Tai Chi](/assets/documents/taichi/principes-essentiels-tai-chi.pdf)
+
+[Tai Chi for Health Institute](https://taichiforhealthinstitute.org/instructors/instructor/?instructor_id=8289)
 
 ## Articles – Citations
 
@@ -121,18 +143,13 @@ Le Corps quantique – Dr Deepak Chopra
 
 ## Liens
 
-<http://www.taichiforhealthinstitute.org>
-
-<http://www.taichiproduction.com>
-
-<http://www.reconstruction-posturale.com>
-
-<http://www.treeoflifetaichi.com/peterwayne.php>
-
-<http://www.denismaillard.ch/>
-
-<http://www.vistawell.ch>
-
-<http://www.physioswiss.ch>
-
-<http://www.sigvaris.ch> – Bas de contention
+* [taichiforhealthinstitute.org](http://www.taichiforhealthinstitute.org)
+* [taichiproduction.com](http://www.taichiproduction.com)
+* [reconstruction-posturale.com](http://www.reconstruction-posturale.com)
+* [physiotherapie-normo-inductive.fr](http://www.physiotherapie-normo-inductive.fr)
+* [treeoflifetaichi.com/peterwayne](http://www.treeoflifetaichi.com/peterwayne.php)
+* [denismaillard.ch](http://www.denismaillard.ch)
+* [ieqg.com](http://ieqg.com)
+* [vistawell.ch](http://www.vistawell.ch)
+* [physioswiss.ch](http://www.physioswiss.ch)
+* [sigvaris.ch – Bas de contention](http://www.sigvaris.ch)
