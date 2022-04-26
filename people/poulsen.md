@@ -110,17 +110,25 @@ C’est donc l’identité même de la personne qui est redéfinie au cours d’
 
 Thierry Janssen – La Solution Intérieure
 
+<br>
+
 >« Je m'observe moi-même et c'est ainsi que je réussis à connaître les autres. »
 
 Lao Tseu
+
+<br>
 
 >« Your body is your subconscious mind. »
 
 Candace Pert
 
+<br>
+
 >« Ceux qui prétendent détenir la vérité sont ceux qui ont abandonné la poursuite du chemin vers elle. La vérité ne se possède pas, elle se cherche. »
 
 Albert Jaccard
+
+<br>
 
 > « Pour vivre pleinement sa vie, il n'est pas nécessaire d'agir. Pour vivre pleinement sa vie, il est indispensable d'être. »<br>
 > « Ta vie est un bloc d'argile. Ne laisse personne la modeler à ta place. »<br>
@@ -128,6 +136,14 @@ Albert Jaccard
 > « Il n'y a point de chemin vers le bonheur. Le bonheur, c'est le chemin. »<br>
 
 Lao Tseu
+
+<br>
+
+La Structure gouverne la Fonction – Still
+
+La Fonction détermine la Structure – Ida Rolf
+
+<br>
 
 **Bibliographie**
 
