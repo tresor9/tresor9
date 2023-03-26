@@ -33,6 +33,7 @@ name="Anne-Line Poulsen"
 address1="Rue du Trésor 9"
 address2="2000 Neuchâtel"
 email="annelinepoulsen@gmail.com"
+email2="alpoulsen@physio-hin.ch"
 phone="079 268 72 42"
 %}
 
