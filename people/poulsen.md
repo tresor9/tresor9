@@ -56,6 +56,15 @@ La gymnastique méditative (concentration sur ce que l’on est en train de fair
 Idéalement, certains exercices deviennent un mode de vie. En position debout ou assise prolongée, on prend régulièrement 10 secondes pour écouter sa posture et sa respiration.<br>
 Même concentré sur son travail, on peut rester en contact avec son corps physique.
 
+### Resources
+
+Cliquez sur le nom du document pour le télécharger.
+
+* [Position assise, position debout](/assets/documents/physio/positionAssisePositionDebout.pdf)
+  * Apprendre à rester en position assise et debout sans se fatiguer et de manière indolore
+  * Être assis ou debout sans contraintes sur les structures passives (capsulo-ligamentaires)
+  * Apprendre à écouter les tensions musculaires pour les inciter à relâcher
+
 ## Physio Tai Chi – Tai Chi For Health – Qi Gong
 
 ### Cours en Petits Groupes
@@ -72,11 +81,12 @@ Vous voulez apprendre la forme courte Sun Style ? Il faudra entre 10 et 12 séan
 
 Lieu: Rue du Trésor 9 – Neuchâtel – 079 268 72 42 – annelinepoulsen@gmail.com
 
-Prix pour des séances de 55 minutes :
-•	Groupe de 4 personnes : CHF : 30.- par personne et par séance
-•	Groupes de 3 personnes : CHF : 40.- par personne et par séance
-•	Groupes de 2 personnes : CHF : 60.- par personne et par séance
-•	Cours privé : 120.- par séance
+Prix pour des séances de 55 minutes:
+
+* Groupe de 4 personnes : CHF : 30.- par personne et par séance
+* Groupes de 3 personnes : CHF : 40.- par personne et par séance
+* Groupes de 2 personnes : CHF : 60.- par personne et par séance
+* Cours privé : 120.- par séance
 
 Les documents pour les participants aux cours de Physio Tai Chi peuvent être téléchargés [ICI](/people/poulsen-login.html).
 
